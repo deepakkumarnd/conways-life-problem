@@ -21,4 +21,4 @@ Results using ruby 4.0.6 on 17/10/2026
   58.449009   0.153634  58.602643 ( 58.755261)
 ```
 
-Spinal is 4 times faster than ruby.
+Spinal is 4 times faster than ruby. Compiled binary file size is 776K
